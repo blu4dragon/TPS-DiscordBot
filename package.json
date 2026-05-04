@@ -1,0 +1,17 @@
+{
+  "name": "basic-discord-bot",
+  "version": "1.0.0",
+  "description": "A simple Discord bot using ! commands.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7"
+  },
+  "license": "MIT"
+}
